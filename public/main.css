@@ -1,0 +1,14 @@
+html {
+  background-color: lightgoldenrodyellow;
+  color:lightskyblue;
+  text-align: center;
+  font-family: impact;
+}
+h1 {
+  color: #ffe4e1;
+  text-shadow: 2px 2px lightskyblue;
+}
+
+#advice {
+  color:red;
+}
